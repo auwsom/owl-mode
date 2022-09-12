@@ -1,3 +1,5 @@
+**this is a forked repo.. currently modifying it with 'better' keyboard shortcuts to be used on a static site**
+
 OWL : Outliner with Wiki Linking
 ================================
 
