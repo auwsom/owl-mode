@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>example2/aboutreader.opml</title>
+		<dateModified>Sat, 15 Feb 2020 15:30:03 GMT</dateModified>
+		<expansionState></expansionState>
+		<vertScrollState>1</vertScrollState>
+		<windowTop>300</windowTop>
+		<windowLeft>700</windowLeft>
+		<windowBottom>900</windowBottom>
+		<windowRight>1500</windowRight>
+		</head>
+	<body text="example2/aboutreader.opml">
+		<outline created="Mon, 22 Apr 2013 15:36:00 GMT" text="dafbadfbadfbadfb What is this?">
+        <outline created="Mon, 22 Apr 2013 15:36:05 GMT" text="adfvdafbadfbadfbadfbdafbfdab dafbafbThis is a new piece of software called &lt;i&gt;Small Picture Reader. &lt;/i&gt;"></outline>
+			<outline created="Mon, 22 Apr 2013 15:36:32 GMT" text="Think of it as a player for outlines. ">
+				<outline created="Mon, 22 Apr 2013 16:53:01 GMT" text="It looks a bit like Readability, a product we love, except that it's making OPML files more readable. And it understands the structure of the document just as our outliners do. Except this is only for reading. "></outline>
+				</outline>
+			<outline created="Mon, 22 Apr 2013 15:50:10 GMT" text="It's a way of publishing your outlines. ">
+				<outline created="Mon, 22 Apr 2013 16:53:47 GMT" text="A way of communicating from an outliner to people who don't use an outliner. "></outline>
+				</outline>
+			</outline>
+		<outline created="Mon, 22 Apr 2013 15:50:34 GMT" text="How to">
+			<outline created="Mon, 22 Apr 2013 15:37:04 GMT" text="There's a new command in Fargo 0.48 that allows you to view the current outline in Reader. "></outline>
+			<outline created="Mon, 22 Apr 2013 15:36:19 GMT" text="You can then send a link to the reader to people who are interested. "></outline>
+			<outline created="Mon, 22 Apr 2013 18:04:47 GMT" text="Read about how to use it in this &lt;a href=&quot;http://worknotes.smallpicture.com/april2013/fargo048&quot;&gt;worknote&lt;/a&gt;. "></outline>
+			</outline>
+		<outline created="Mon, 22 Apr 2013 15:54:03 GMT" text="Demo">
+			<outline created="Mon, 22 Apr 2013 15:54:06 GMT" text="You can add a picture.">
+				<outline text="&lt;img src=&quot;http://static.scripting.com/larryKing/images/2013/04/11/drum.gif&quot; width=&quot;135&quot; height=&quot;112&quot; border=&quot;0&quot; style=&quot;margin-top: 15px; margin-bottom: 15px;&quot; alt=&quot;A picture named drum.gif&quot;&gt;"></outline>
+				</outline>
+			<outline created="Mon, 22 Apr 2013 18:06:43 GMT" text="Here are some links.">
+				<outline created="Mon, 22 Apr 2013 15:58:42 GMT" text="A Wikipedia page" type="link" url="http://en.wikipedia.org/wiki/Theodore_Roosevelt"></outline>
+				<outline created="Mon, 22 Apr 2013 18:11:29 GMT" text="Introducing Fargo" type="link" url="http://threads2.scripting.com/2013/april/introducingFargo"></outline>
+				</outline>
+			<outline created="Mon, 22 Apr 2013 16:05:32 GMT" text="A couple of essays...">
+				<outline text="Jeff is an idea processor">
+					<outline text="Jeff Jarvis &lt;a href=&quot;https://twitter.com/jeffjarvis/status/323807324785483776&quot;&gt;loves&lt;/a&gt; whiteboards."></outline>
+					<outline text="I never want to say an idea guy like Jeff is wrong. "></outline>
+					<outline text="Rather -- there's a tool that could make that kind of work much easier, faster, and get better results. It's called an outliner. I happen to make one."></outline>
+					<outline text="&lt;a href=&quot;http://littleoutliner.com/&quot;&gt;http://littleoutliner.com/&lt;/a&gt;"></outline>
+					<outline text="Perfect use-case. "></outline>
+					<outline text="For an idea guy, an author, an outliner is like a spreadsheet for an accountant."></outline>
+					</outline>
+				<outline text="Outlining a meeting">
+					<outline text="We've been trying some experiments liveblogging with the outliner. "></outline>
+					<outline text="For now, I think outlining doesn't add much to liveblogging. But there &lt;i&gt;is&lt;/i&gt; an area where I am pretty sure &lt;a href=&quot;http://littleoutliner.com/&quot;&gt;outlining&lt;/a&gt; makes a big difference in a group setting, because we've done it -- in meetings."></outline>
+					<outline text="You can try it with one other person looking over your shoulder while you outline a project you're doing together. For example, imagine you're buying a house with your spouse. Start by listing all the things you want and don't want in a house. As you list your ideas, the other person will get some too, you add them to the outline. "></outline>
+					<outline text="Pause for a moment and group them. "></outline>
+					<outline text="Start listing neighborhoods."></outline>
+					<outline text="How much money you want to spend."></outline>
+					<outline text="How many bedrooms. A yard? A nice view? Schools? Close to public transit?"></outline>
+					<outline text="Jump around. If your partner has an idea in one category when you're in the other, just do what they ask. It's about being &lt;b&gt;&lt;i&gt;fluid&lt;/i&gt;&lt;/b&gt; with your thinking. "></outline>
+					<outline text="Pretty quickly you start using the outline to organize the problem. It becomes a shared space between the two of you, and it really doesn't matter who is at the keyboard, who controls the mouse. The ideas come from both of you. "></outline>
+					<outline text="The same idea works in a larger context if you can project the outline on a screen."></outline>
+					<outline text="It can have magical results in organizing a project that has resisted organization."></outline>
+					<outline text="Don't make a big deal about using the outline at first. It's just being projected, maybe one or two people will start looking at it while you type. Then someone says &quot;Move this item under the other category.&quot; They have trouble explaining so they get up and show you. Do what they ask you to do. Now they're controlling the outline by pointing to the projected image of it."></outline>
+					<outline text="Sometimes the power of technology is less important than the communication between two human beings. "></outline>
+					<outline text="This process was possible 25 years ago. I know because we did it back then. "></outline>
+					<outline text="Give it a try. "></outline>
+					</outline>
+				</outline>
+			<outline name="anIncludeNode" text="An include node." type="include" url="http://smallpicture.com/states.opml"></outline>
+			</outline>
+		<outline created="Mon, 22 Apr 2013 19:38:06 GMT" text="Compatibility">
+			<outline created="Mon, 22 Apr 2013 19:38:09 GMT" text="Our reader works with any OPML file, not just ones produced by Fargo or Little Outliner. "></outline>
+			<outline created="Mon, 22 Apr 2013 19:38:32 GMT" text="You are welcome to use it to read OPML produced by other apps. :-)"></outline>
+			</outline>
+		</body>
+	</opml>
